@@ -7,7 +7,7 @@ This is a non-exhaustive list of models and diagram that helped me in the past a
 - [Ishikawa Diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram)
 - FAST (Function Analysis System Technique)
 - [C4 Model](https://c4model.com)
-- [SIPOC Diagram] https://en.wikipedia.org/wiki/SIPOC
+- [SIPOC Diagram](https://en.wikipedia.org/wiki/SIPOC)
 
 ## Business
 
